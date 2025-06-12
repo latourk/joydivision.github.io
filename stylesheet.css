@@ -4,12 +4,25 @@ body {
 
 h1 {
     color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 h2 {
     color: white;
+    
+}
+
+h3 {
+    color: white;
+    font-family: serif;
 }
 
 p {
     color: white;
+    font-family: serif;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 150%;
 }
+
